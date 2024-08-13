@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspired by the original Flappy Bird game.
-- Thanks to [Your Inspiration/Resources] for tutorials and resources.
+- Thanks to (https://youtu.be/Xw2MEG-FBsE?si=TalZIdNfy_eXbulQ) for tutorials and resources.
 
 ---
 
